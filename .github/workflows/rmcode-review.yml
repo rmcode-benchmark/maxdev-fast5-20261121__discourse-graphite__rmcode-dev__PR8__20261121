@@ -167,3 +167,4 @@ jobs:
             --token="${{ inputs.auth_token }}" \
             --source-repo="${{ inputs.source_repository || github.repository }}" \
             --tier="${{ inputs.review_tier }}"
+# registered for v0.2.0 dev smoke
